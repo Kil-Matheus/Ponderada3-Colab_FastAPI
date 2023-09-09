@@ -27,6 +27,8 @@ O projeto é dividido em dois componentes principais: o script Python e o Colab 
 - Ele também realiza a normalização dos dados e explora a correlação entre as variáveis.
 - O modelo treinado é salvo e carregado posteriormente pelo script Python.
 
+link: https://colab.research.google.com/drive/1e1aKMYGFzCI1GfSeQKWBT_rmxtwRe1H4?usp=sharing
+
 ### Script Python (`minha_api.py`)
 
 - `minha_api.py` é o arquivo principal que contém a definição da API FastAPI.
