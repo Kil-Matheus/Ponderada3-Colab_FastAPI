@@ -77,6 +77,10 @@ docker run -p 8000:8000 kilmatheus/ponderada-colab-fastapi:1.0.0
 A API estará disponível em `http://localhost:8000/docs`.
 
 
+## Vídeo do Projeto
+
+Link do vídeo: https://drive.google.com/file/d/1Guy2oBOhWIdcqBdO37mpt1nkApRjwYFv/view?usp=sharing
+
 ## Autores
 
 - Kil Matheus Gomes Teixeira - Engenharia da Computação - Instituto de Tecnologia e Liderança (INTELI)
