@@ -14,7 +14,7 @@ Antes de executar o projeto, certifique-se de que você tenha as seguintes bibli
 - Pydantic
 - Unidecode
 
-Você pode instalar as bibliotecas usando o `pip`. Por exemplo:
+Você pode instalar as bibliotecas usando o `pip`.
 
 
 ## Estrutura do Projeto
@@ -26,6 +26,7 @@ O projeto é dividido em dois componentes principais: o script Python e o Colab 
 - O Colab Notebook contém o código utilizado para pré-processar os dados e treinar o modelo PyCaret.
 - Ele também realiza a normalização dos dados e explora a correlação entre as variáveis.
 - O modelo treinado é salvo e carregado posteriormente pelo script Python.
+- No Pycaret, o modelo em questão salvo com a maior acurácia foi o `Random Forest Regressor`.
 
 link: https://colab.research.google.com/drive/1e1aKMYGFzCI1GfSeQKWBT_rmxtwRe1H4?usp=sharing
 
@@ -79,7 +80,9 @@ A API estará disponível em `http://localhost:8000/docs`.
 
 ## Vídeo do Projeto
 
-Link do vídeo: https://drive.google.com/file/d/1Guy2oBOhWIdcqBdO37mpt1nkApRjwYFv/view?usp=sharing
+Link do vídeo (Rodando Local): https://drive.google.com/file/d/1Guy2oBOhWIdcqBdO37mpt1nkApRjwYFv/view?usp=sharing
+
+Link do vídeo (Docker pull): https://drive.google.com/file/d/1tUGSvh1aF7kGWccVY6j3J02OykryV5Xr/view?usp=sharing
 
 ## Autores
 
